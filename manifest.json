@@ -1,0 +1,10 @@
+{
+  "name": "Layer snake",
+  "id": "1116819851700237488",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html"
+}
